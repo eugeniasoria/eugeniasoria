@@ -20,7 +20,7 @@ I am a software engineer with experience in software companies, having worked wi
 
 Skills: NODE / REACT / MONGO / JENKINS 
 
-- 📫 How to reach me: masnenamurcia@gmail.com
+- 📫 How to reach me: eugenia.soria.mes@gmail.com
 - ⚡ Fun fact: Roles I have worked in are: Developer, Configuration Management Engineer, DevOps Engineer, Automation Engineer, Software Engineer, Backend Developer
 
 
